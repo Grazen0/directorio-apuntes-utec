@@ -14,6 +14,10 @@ Todos los repositorios listados aquí están hechos para abrirse en [Obsidian](h
 
 ![Notas de Diego Figueroa](https://github.com/Grazen0/directorio-apuntes-utec/blob/main/img/diego_figueroa.png?raw=true)
 
+### [Steve Ildefonso](https://github.com/stiffis/class-notes)
+
+![Notas de Steve Ildefonso](https://github.com/Grazen0/directorio-apuntes-utec/blob/main/img/steve_ildefonso.png?raw=true)
+
 ## 💪 Contribuir
 
 Si estudias en la UTEC y tienes un repositorio público para tus notas, no dudes en [abrir un pull request](https://github.com/Grazen0/nixos-config/compare) para añadir tus apuntes a esta lista! 🤙
