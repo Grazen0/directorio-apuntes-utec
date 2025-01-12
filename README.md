@@ -6,7 +6,7 @@ Todos los repositorios listados aquí están hechos para abrirse en [Obsidian](h
 
 ## 🗺️ Directorio
 
-### [José Daniel Grayson](github.com/Grazen0/class-notes)
+### [José Daniel Grayson](https://github.com/Grazen0/class-notes)
 
 ![Notas de José Daniel Grayson](https://github.com/Grazen0/directorio-apuntes-utec/blob/main/img/jose_grayson.png?raw=true)
 
